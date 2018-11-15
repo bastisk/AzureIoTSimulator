@@ -1,0 +1,16 @@
+{
+  "name": "iothubsender",
+  "version": "0.0.1",
+  "description": "A tool to send messages to IoTHub",
+  "main": "index.js",
+  "dependencies": {
+    "azure-iot-device": "^1.1.7",
+    "azure-iot-device-amqp": "^1.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Kiepsch",
+  "license": "ISC"
+}
